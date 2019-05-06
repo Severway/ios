@@ -23,6 +23,7 @@
     self.window.rootViewController = [[RootViewController alloc] init];
     [self.window makeKeyAndVisible];
     
+    //
 //    [AdTimingAds initWithAppKey:@"bdCFTourpAmJDXRzPSoe1GP9Ev18oIAf" completionHandler:^(NSError *error) {
 //        
 //        if (!error) {
