@@ -24,6 +24,7 @@
     self.delegate = self;
     //    self.user_model = getUserProfile();
     
+    // 我在尝试用Sourcetree修改用户名
     [self setSubViews];
     
 }
