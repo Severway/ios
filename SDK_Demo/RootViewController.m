@@ -25,6 +25,7 @@
     //    self.user_model = getUserProfile();
     
     // 我在尝试用Sourcetree修改用户名
+    // 我找到了修改用户名的方法
     [self setSubViews];
     
 }
