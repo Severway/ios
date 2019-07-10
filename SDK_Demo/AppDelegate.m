@@ -24,15 +24,15 @@
     [self.window makeKeyAndVisible];
     
     // 123
-//    [AdTimingAds initWithAppKey:@"bdCFTourpAmJDXRzPSoe1GP9Ev18oIAf" completionHandler:^(NSError *error) {
-//        
-//        if (!error) {
-//            NSLog(@"初始化成功!");
-//        }else{
-//            NSLog(@"初始化失败!");
-//        }
-//        
-//    }];
+    [AdTimingAds initWithAppKey:@"bdCFTourpAmJDXRzPSoe1GP9Ev18oIAf" completionHandler:^(NSError *error) {
+        
+        if (!error) {
+            NSLog(@"初始化成功!");
+        }else{
+            NSLog(@"初始化失败!");
+        }
+        
+    }];
     return YES;
 }
 
